@@ -70,6 +70,5 @@ Computer Science Student
 
 GBStation was developed as a practical solution to improve stationery shop operations by reducing manual record keeping, simplifying sales processing, and improving inventory tracking.
 
----
 
-*This project is intended for learning and demonstration purposes.*
+
